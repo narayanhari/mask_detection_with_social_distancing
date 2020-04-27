@@ -1,4 +1,4 @@
-# FaceMaskDetection
+<!-- # FaceMaskDetection
 [中文版](README-zh.md)
 
 ### We open source all the popular deep learning frameworks' model and inference code to do face mask detection.
@@ -93,3 +93,4 @@ We merge the BN to Conv layers in order to accelerate the inference speed.
 [aizoo.com face mask detection demo](https://demo.aizoo.com/face-mask-detection.html)
 
 ![](img/facemask.gif)
+ -->
